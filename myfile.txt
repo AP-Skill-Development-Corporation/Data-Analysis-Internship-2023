@@ -1,0 +1,4 @@
+I am good at programming
+ Hello world 
+ Happy learning 
+ this is sample data 
