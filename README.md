@@ -11,4 +11,4 @@ Data Analysis Internship 2023
 ### https://makemeanalyst.com/data-science-with-python/python-libraries-for-data-analysis/
 
 ### Abstract and Documention preparation steps:
-#### https://drive.google.com/drive/folders/1Omi7Jxz5E6f_pU-W49euOHCDp8M0CcYC?usp=sharing
+#### https://drive.google.com/file/d/1fi4M4yg8PCpcazldojTCSwNpnlCK5Ex1/view?usp=sharing
