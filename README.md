@@ -9,3 +9,6 @@ Data Analysis Internship 2023
 
 ### Data Analysis Reference website link:
 ### https://makemeanalyst.com/data-science-with-python/python-libraries-for-data-analysis/
+
+### Abstract and Documention preparation steps:
+#### https://drive.google.com/drive/folders/1Omi7Jxz5E6f_pU-W49euOHCDp8M0CcYC?usp=sharing
